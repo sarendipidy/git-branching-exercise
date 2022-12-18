@@ -24,6 +24,9 @@
 9 git commit -am "Commit 4"<br>
 
 10 git merge master<br>
-11 [EDIT FILE.md]<br>
-12 git add FILE.md<br>
-13 git commit -m "Commit 5"<br>
+ [EDIT FILE.md]<br>
+11 git add FILE.md<br>
+12 git commit -m "Commit 5"<br>
+
+[EDIT FILE.md]<br>
+13 git commit -am "Commit 6"<br>
