@@ -24,3 +24,6 @@
 
 [EDIT FILE.md]<br>
 16 git commit -am "Commit 7"<br>
+
+[EDIT FILE.md]<br>
+17 git commit -am "Commit 8"<br>
