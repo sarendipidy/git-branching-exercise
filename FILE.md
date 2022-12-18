@@ -12,3 +12,11 @@
 
 [EDIT FILE.md]<br>
 5 git commit -am "Commit 2"<br>
+
+## bug-fix-experimental branch
+
+19 git checkout master<br>
+
+## master branch
+[EDIT FILE.md]<br>
+20 git commit -am "Commit 10"<br>
