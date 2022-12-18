@@ -9,3 +9,6 @@
 [EDIT FILE.md]<br>
 3 git add FILE.md<br>
 4 git commit -m "Commit 1"<br>
+
+[EDIT FILE.md]<br>
+5 git commit -am "Commit 2"<br>
