@@ -80,4 +80,5 @@
 
 [CREATE github-repo-network.png]<br>
 [EDIT FILE.md]<br>
-30 git commit -am "Commit 14"
+30 git add FILE.md github-repo-network.png<br>
+31 git commit -m "Commit 14"<br>
