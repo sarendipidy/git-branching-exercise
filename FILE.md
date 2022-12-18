@@ -13,3 +13,6 @@
 
 [EDIT FILE.md]<br>
 8 git commit -am "Commit 3"<br>
+
+[EDIT FILE.md]<br>
+9 git commit -am "Commit 4"<br>
