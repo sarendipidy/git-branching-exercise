@@ -16,3 +16,11 @@
 
 [EDIT FILE.md]<br>
 9 git commit -am "Commit 4"<br>
+
+14 git log<br>
+15 git checkout -b bug-fix-experimental fdf35f761e6fc804838fea1d99aaa6d222653056<br>
+
+## bug-fix-experimental
+
+[EDIT FILE.md]<br>
+16 git commit -am "Commit 7"<br>
