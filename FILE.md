@@ -52,7 +52,11 @@
 
 ## bug-fix branch
 
-22 git merge bug-fix-experimental
-[EDIT FILE.md]
-23 git add FILE.md
-24 git commit -m "Commit 11"
+22 git merge bug-fix-experimental<br>
+[EDIT FILE.md]<br>
+23 git add FILE.md<br>
+24 git commit -m "Commit 11"<br>
+
+[EDIT FILE.md]<br>
+25 git commit -am "Commit 12"<br>
+
